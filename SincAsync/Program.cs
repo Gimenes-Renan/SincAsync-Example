@@ -1,11 +1,7 @@
-﻿using System.Security.Cryptography;
-
-namespace SincAsync
+﻿namespace SincAsync
 {
     internal class Program
     {
-
-
         static async Task Main(string[] args)
         {
             var t1 = Falar("Aoba", 5);
